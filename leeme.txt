@@ -1,0 +1,83 @@
+SISTEMA DE MINADO DGB - TUS EQUIPOS, CON AVISO
+
+PANEL PUBLICO (desde cualquier PC y cualquier red)
+  https://dgb-panel.dgb-panel-worker.workers.dev
+
+COMPOSICION
+- miner.exe : minero CPU SHA-256d para Windows. Lleva la configuracion dentro.
+  Usa SHA-NI automatico en CPUs modernos y cae a SHA escalar si no lo tienen.
+- miner.cpp / build.bat : codigo y compilacion de miner.exe.
+- miner.cfg : configuracion local. Si NO existe, el minero la crea solo.
+- miner.py : minero portatil (Windows, Linux, macOS). Lleva la configuracion dentro.
+- server.py + panel.cfg : panel local opcional, por si quieres verlo en tu red.
+- panel-worker/ : panel publico desplegado en Cloudflare Worker + KV.
+
+COMO USARLO EN OTRO PC (solo descargar el .exe)
+1. Copia SOLO miner.exe a esa PC. No copies miner.cfg ni edites nada.
+2. Doble clic en miner.exe.
+3. Aparece la ventana con el AVISO: wallet, pool, worker, hilos y consumo.
+4. Marca la casilla o pulsa "Aceptar y ocultar". El minado arranca solo.
+5. El .exe crea su propio miner.cfg al lado:
+     pool=stratum+tcp://bcmonster.com:9986
+     wallet=DMQfxFM5MEU75Y1w1UdfYtW4wMaFx6dwRq
+     worker=pc_NOMBRE_DEL_PC
+     threads=auto
+     server=https://dgb-panel.dgb-panel-worker.workers.dev/report
+6. Ese PC aparece en el panel publico en menos de 1 minuto.
+
+Si ya existe miner.cfg, el minero respeta lo que diga. Los valores de arriba
+solo se aplican cuando el archivo no existe.
+
+COMO USARLO EN LINUX (o macOS)
+1. Copia SOLO miner.py a esa PC (necesita Python 3).
+2. Ejecuta: python3 miner.py
+3. Escribe ACEPTO y pulsa Enter. Arranca el minado.
+4. El script crea solo su miner.cfg al lado, con la misma configuracion:
+     pool=stratum+tcp://bcmonster.com:9986
+     wallet=DMQfxFM5MEU75Y1w1UdfYtW4wMaFx6dwRq
+     worker=pc_NOMBRE_DEL_PC
+     threads=auto
+     server=https://dgb-panel.dgb-panel-worker.workers.dev/report
+5. Esa PC aparece en el panel publico como UN solo equipo, con la suma de
+   todos sus hilos. Se actualiza cada 5 segundos.
+6. Para detener: Ctrl+C. No deja procesos minando.
+
+PANEL
+  Abre https://dgb-panel.dgb-panel-worker.workers.dev
+  Se actualiza solo cada 5 segundos. Muestra:
+    - equipos activos
+    - hashrate total
+    - hashes totales
+    - acciones aceptadas
+    - DGB minados por el conjunto de equipos activos
+    - su valor en EUR
+    - total en la wallet y su valor en EUR
+    - precio de DGB en EUR
+    - tiempo activo
+    - tabla por equipo con su minado y su EUR
+
+DETENER EL MINERO
+  Icono en la bandeja del sistema, al lado del reloj:
+    Clic derecho -> "Detener minado" o "Salir y detener todo".
+  Cerrar la ventana con la X la manda a la bandeja; no detiene el minado.
+  Si editas miner.cfg con la ventana abierta, pulsa "Recargar config".
+
+PANEL LOCAL OPCIONAL
+  En un PC de la red puedes ejecutar: python server.py
+  Luego abre http://IP_DEL_PANEL:8765
+  Sirve como respaldo local. El panel publico funciona sin este paso.
+
+NOTAS
+- CPU SHA-256d es muy lento frente a ASIC; el sistema mina de verdad y envia
+  shares al pool, pero no esperes ganancias significativas con CPU.
+- Pool actual: BCMonster (bcmonster.com:9986), sin registro, wallet como
+  usuario, comision 1.5%, pago minimo 1 DGB. El puerto 9986 arranca en
+  dificultad 0.001 y el pool la ajusta sola; es el indicado para CPU.
+  Verificado: subscribe OK, authorize OK, trabajo recibido.
+- Otros puertos DGB del mismo pool: 4444 (estandar, diff 20K), 4445 (pro),
+  4448 (elite), 9996 (solo, baja dificultad). Para una PC sola, 9986.
+- Reserva: DigiHash (digihash.digibyte.io:3008), sin registro, comision
+  10%, pago minimo 25 DGB. Kryptex no se usa.
+- El estado del worker se ve en:
+  https://bcmonster.com/worker.html?address=DMQfxFM5MEU75Y1w1UdfYtW4wMaFx6dwRq
+- Wallet configurada: DMQfxFM5MEU75Y1w1UdfYtW4wMaFx6dwRq

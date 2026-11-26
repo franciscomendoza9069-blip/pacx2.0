@@ -1,0 +1,247 @@
+[1] worker start
+[1] connected digihash.digibyte.io:3008 user=DMQfxFM5MEU75Y1w1UdfYtW4wMaFx6dwRq.worker01
+[1] subscribe ok ex1size=4 ex2size=4
+[0] subscribe ok ex1size=4 ex2size=4
+[0] authorize failed
+[1] connected digihash.digibyte.io:3008 user=DMQfxFM5MEU75Y1w1UdfYtW4wMaFx6dwRq.worker01
+[0] connected digihash.digibyte.io:3008 user=DMQfxFM5MEU75Y1w1UdfYtW4wMaFx6dwRq.worker01
+[1] subscribe ok ex1size=4 ex2size=4
+[0] subscribe ok ex1size=4 ex2size=4
+[0] job e09f haveJob=1 sizes=32/4/4/4
+[1] authorize failed
+[0] authorized
+[0] worker start
+[0] connected bcmonster.com:9986 user=DMQfxFM5MEU75Y1w1UdfYtW4wMaFx6dwRq.worker01
+[1] connected bcmonster.com:9986 user=DMQfxFM5MEU75Y1w1UdfYtW4wMaFx6dwRq.worker01
+[0] subscribe ok ex1size=6 ex2size=4
+[1] subscribe ok ex1size=6 ex2size=4
+[0] authorized
+[0] job 22a54267 haveJob=1 sizes=32/4/4/4
+[1] authorized
+[1] job 12d04269 haveJob=1 sizes=32/4/4/4
+[0] job 22a54268 haveJob=1 sizes=32/4/4/4
+[1] job 12d0426a haveJob=1 sizes=32/4/4/4
+[1] job 12d0426b haveJob=1 sizes=32/4/4/4
+[0] job 22a54269 haveJob=1 sizes=32/4/4/4
+[1] job 12d0426c haveJob=1 sizes=32/4/4/4
+[0] job 22a5426a haveJob=1 sizes=32/4/4/4
+[0] job 22a5426b haveJob=1 sizes=32/4/4/4
+[1] job 12d0426d haveJob=1 sizes=32/4/4/4
+[0] job 22a5426c haveJob=1 sizes=32/4/4/4
+[1] job 12d0426e haveJob=1 sizes=32/4/4/4
+[0] job 22a5426d haveJob=1 sizes=32/4/4/4
+[1] job 12d0426f haveJob=1 sizes=32/4/4/4
+[1] job 12d04270 haveJob=1 sizes=32/4/4/4
+[0] job 22a5426e haveJob=1 sizes=32/4/4/4
+[1] job 12d04271 haveJob=1 sizes=32/4/4/4
+[0] job 22a54270 haveJob=1 sizes=32/4/4/4
+[1] job 12d04272 haveJob=1 sizes=32/4/4/4
+[0] connected bcmonster.com:9986 user=DMQfxFM5MEU75Y1w1UdfYtW4wMaFx6dwRq.worker01
+[0] subscribe ok ex1size=6 ex2size=4
+[0] authorized
+[0] job 12d04272 haveJob=1 sizes=32/4/4/4
+[1] job 12d04273 haveJob=1 sizes=32/4/4/4
+[0] job 12d04273 haveJob=1 sizes=32/4/4/4
+[1] connected bcmonster.com:9986 user=DMQfxFM5MEU75Y1w1UdfYtW4wMaFx6dwRq.worker01
+[1] subscribe ok ex1size=6 ex2size=4
+[1] authorized
+[1] job 324c4277 haveJob=1 sizes=32/4/4/4
+[0] job 12d04274 haveJob=1 sizes=32/4/4/4
+[1] job 324c4278 haveJob=1 sizes=32/4/4/4
+[0] job 12d04275 haveJob=1 sizes=32/4/4/4
+[1] job 324c4279 haveJob=1 sizes=32/4/4/4
+[0] job 12d04276 haveJob=1 sizes=32/4/4/4
+[1] job 324c427a haveJob=1 sizes=32/4/4/4
+[1] job 324c427b haveJob=1 sizes=32/4/4/4
+[0] job 12d04277 haveJob=1 sizes=32/4/4/4
+[1] job 324c427c haveJob=1 sizes=32/4/4/4
+[0] job 12d04278 haveJob=1 sizes=32/4/4/4
+[0] job 12d04279 haveJob=1 sizes=32/4/4/4
+[1] job 324c427d haveJob=1 sizes=32/4/4/4
+[1] job 324c427e haveJob=1 sizes=32/4/4/4
+[0] job 12d0427a haveJob=1 sizes=32/4/4/4
+[0] job 12d0427b haveJob=1 sizes=32/4/4/4
+[1] job 324c427f haveJob=1 sizes=32/4/4/4
+[0] job 12d0427c haveJob=1 sizes=32/4/4/4
+[1] job 324c4280 haveJob=1 sizes=32/4/4/4
+[0] job 12d0427d haveJob=1 sizes=32/4/4/4
+[1] job 324c4281 haveJob=1 sizes=32/4/4/4
+[0] connected bcmonster.com:9986 user=DMQfxFM5MEU75Y1w1UdfYtW4wMaFx6dwRq.worker01
+[0] subscribe ok ex1size=6 ex2size=4
+[0] authorized
+[0] job 0de6427d haveJob=1 sizes=32/4/4/4
+[1] connected bcmonster.com:9986 user=DMQfxFM5MEU75Y1w1UdfYtW4wMaFx6dwRq.worker01
+[1] subscribe ok ex1size=6 ex2size=4
+[1] authorized
+[1] job 0de6427d haveJob=1 sizes=32/4/4/4
+[0] job 0de6427e haveJob=1 sizes=32/4/4/4
+[1] job 0de6427e haveJob=1 sizes=32/4/4/4
+[1] job 0de6427f haveJob=1 sizes=32/4/4/4
+[0] job 0de6427f haveJob=1 sizes=32/4/4/4
+[1] worker start
+[0] connected bcmonster.com:9986 user=DMQfxFM5MEU75Y1w1UdfYtW4wMaFx6dwRq.worker01
+[1] connected bcmonster.com:9986 user=DMQfxFM5MEU75Y1w1UdfYtW4wMaFx6dwRq.worker01
+[0] subscribe ok ex1size=6 ex2size=4
+[1] subscribe ok ex1size=6 ex2size=4
+[1] authorized
+[0] authorized
+[1] job 12d05de1 haveJob=1 sizes=32/4/4/4
+[0] job 22a55ddb haveJob=1 sizes=32/4/4/4
+[0] job 22a55ddc haveJob=1 sizes=32/4/4/4
+[1] job 12d05de2 haveJob=1 sizes=32/4/4/4
+[1] job 12d05de3 haveJob=1 sizes=32/4/4/4
+[0] job 22a55ddd haveJob=1 sizes=32/4/4/4
+[0] job 22a55dde haveJob=1 sizes=32/4/4/4
+[1] job 12d05de4 haveJob=1 sizes=32/4/4/4
+[1] job 12d05de5 haveJob=1 sizes=32/4/4/4
+[0] job 22a55ddf haveJob=1 sizes=32/4/4/4
+[0] job 22a55de0 haveJob=1 sizes=32/4/4/4
+[1] job 12d05de6 haveJob=1 sizes=32/4/4/4
+[0] job 22a55de1 haveJob=1 sizes=32/4/4/4
+[1] job 12d05de7 haveJob=1 sizes=32/4/4/4
+[1] job 12d05de8 haveJob=1 sizes=32/4/4/4
+[0] job 22a55de2 haveJob=1 sizes=32/4/4/4
+[1] job 12d05de9 haveJob=1 sizes=32/4/4/4
+[0] job 22a55de3 haveJob=1 sizes=32/4/4/4
+[0] job 22a55de4 haveJob=1 sizes=32/4/4/4
+[1] job 12d05dea haveJob=1 sizes=32/4/4/4
+[0] job 22a55de5 haveJob=1 sizes=32/4/4/4
+[1] job 12d05deb haveJob=1 sizes=32/4/4/4
+[0] job 22a55de6 haveJob=1 sizes=32/4/4/4
+[1] job 12d05dec haveJob=1 sizes=32/4/4/4
+[1] connected bcmonster.com:9986 user=DMQfxFM5MEU75Y1w1UdfYtW4wMaFx6dwRq.worker01
+[1] subscribe ok ex1size=6 ex2size=4
+[1] authorized
+[1] job 12d05dec haveJob=1 sizes=32/4/4/4
+[1] job 12d05ded haveJob=1 sizes=32/4/4/4
+[0] job 22a55de7 haveJob=1 sizes=32/4/4/4
+[0] connected bcmonster.com:9986 user=DMQfxFM5MEU75Y1w1UdfYtW4wMaFx6dwRq.worker01
+[0] subscribe ok ex1size=6 ex2size=4
+[0] authorized
+[0] job 324c5def haveJob=1 sizes=32/4/4/4
+[1] job 12d05dee haveJob=1 sizes=32/4/4/4
+[0] job 324c5df0 haveJob=1 sizes=32/4/4/4
+[1] job 12d05def haveJob=1 sizes=32/4/4/4
+[0] job 324c5df2 haveJob=1 sizes=32/4/4/4
+[1] job 12d05df0 haveJob=1 sizes=32/4/4/4
+[0] job 324c5df3 haveJob=1 sizes=32/4/4/4
+[1] job 12d05df1 haveJob=1 sizes=32/4/4/4
+[0] connected bcmonster.com:9986 user=DMQfxFM5MEU75Y1w1UdfYtW4wMaFx6dwRq.worker01
+[0] subscribe ok ex1size=6 ex2size=4
+[0] authorized
+[0] job 0de65dee haveJob=1 sizes=32/4/4/4
+[0] job 0de65def haveJob=1 sizes=32/4/4/4
+[1] job 12d05df2 haveJob=1 sizes=32/4/4/4
+[1] connected bcmonster.com:9986 user=DMQfxFM5MEU75Y1w1UdfYtW4wMaFx6dwRq.worker01
+[1] subscribe ok ex1size=6 ex2size=4
+[1] authorized
+[1] job 324c5df4 haveJob=1 sizes=32/4/4/4
+[1] job 324c5df5 haveJob=1 sizes=32/4/4/4
+[0] job 0de65df0 haveJob=1 sizes=32/4/4/4
+[1] job 324c5df6 haveJob=1 sizes=32/4/4/4
+[0] job 0de65df1 haveJob=1 sizes=32/4/4/4
+[0] job 0de65df2 haveJob=1 sizes=32/4/4/4
+[1] job 324c5df7 haveJob=1 sizes=32/4/4/4
+[0] job 0de65df3 haveJob=1 sizes=32/4/4/4
+[1] job 324c5df8 haveJob=1 sizes=32/4/4/4
+[0] job 0de65df4 haveJob=1 sizes=32/4/4/4
+[0] job 0de65df5 haveJob=1 sizes=32/4/4/4
+[1] job 324c5dfa haveJob=1 sizes=32/4/4/4
+[1] job 324c5dfb haveJob=1 sizes=32/4/4/4
+[0] job 0de65df6 haveJob=1 sizes=32/4/4/4
+[0] job 0de65df7 haveJob=1 sizes=32/4/4/4
+[1] job 324c5dfc haveJob=1 sizes=32/4/4/4
+[0] job 0de65df8 haveJob=1 sizes=32/4/4/4
+[1] job 324c5dfd haveJob=1 sizes=32/4/4/4
+[0] job 0de65df9 haveJob=1 sizes=32/4/4/4
+[1] job 324c5dfe haveJob=1 sizes=32/4/4/4
+[0] job 0de65dfa haveJob=1 sizes=32/4/4/4
+[1] job 324c5dff haveJob=1 sizes=32/4/4/4
+[1] job 324c5e00 haveJob=1 sizes=32/4/4/4
+[0] job 0de65dfb haveJob=1 sizes=32/4/4/4
+[1] job 324c5e01 haveJob=1 sizes=32/4/4/4
+[0] job 0de65dfc haveJob=1 sizes=32/4/4/4
+[1] job 324c5e02 haveJob=1 sizes=32/4/4/4
+[0] job 0de65dfd haveJob=1 sizes=32/4/4/4
+[0] job 0de65dfe haveJob=1 sizes=32/4/4/4
+[1] job 324c5e03 haveJob=1 sizes=32/4/4/4
+[0] job 0de65dff haveJob=1 sizes=32/4/4/4
+[1] job 324c5e04 haveJob=1 sizes=32/4/4/4
+[0] job 0de65e00 haveJob=1 sizes=32/4/4/4
+[1] job 324c5e05 haveJob=1 sizes=32/4/4/4
+[1] job 324c5e06 haveJob=1 sizes=32/4/4/4
+[0] job 0de65e01 haveJob=1 sizes=32/4/4/4
+[1] job 324c5e07 haveJob=1 sizes=32/4/4/4
+[0] job 0de65e02 haveJob=1 sizes=32/4/4/4
+[1] job 324c5e08 haveJob=1 sizes=32/4/4/4
+[0] job 0de65e03 haveJob=1 sizes=32/4/4/4
+[0] job 0de65e04 haveJob=1 sizes=32/4/4/4
+[1] job 324c5e09 haveJob=1 sizes=32/4/4/4
+[0] job 0de65e05 haveJob=1 sizes=32/4/4/4
+[1] job 324c5e0a haveJob=1 sizes=32/4/4/4
+[0] connected bcmonster.com:9986 user=DMQfxFM5MEU75Y1w1UdfYtW4wMaFx6dwRq.worker01
+[0] subscribe ok ex1size=6 ex2size=4
+[0] authorized
+[0] job 12d05e08 haveJob=1 sizes=32/4/4/4
+[0] job 12d05e09 haveJob=1 sizes=32/4/4/4
+[1] job 324c5e0b haveJob=1 sizes=32/4/4/4
+[1] job 324c5e0c haveJob=1 sizes=32/4/4/4
+[0] job 12d05e0a haveJob=1 sizes=32/4/4/4
+[1] job 324c5e0d haveJob=1 sizes=32/4/4/4
+[0] job 12d05e0b haveJob=1 sizes=32/4/4/4
+[1] connected bcmonster.com:9986 user=DMQfxFM5MEU75Y1w1UdfYtW4wMaFx6dwRq.worker01
+[1] subscribe ok ex1size=6 ex2size=4
+[1] authorize failed
+[1] connected bcmonster.com:9986 user=DMQfxFM5MEU75Y1w1UdfYtW4wMaFx6dwRq.worker01
+[1] subscribe ok ex1size=6 ex2size=4
+[1] authorized
+[1] job 0de65e08 haveJob=1 sizes=32/4/4/4
+[1] job 0de65e09 haveJob=1 sizes=32/4/4/4
+[0] job 12d05e0c haveJob=1 sizes=32/4/4/4
+[0] job 12d05e0d haveJob=1 sizes=32/4/4/4
+[1] job 0de65e0a haveJob=1 sizes=32/4/4/4
+[1] job 0de65e0b haveJob=1 sizes=32/4/4/4
+[0] job 12d05e0e haveJob=1 sizes=32/4/4/4
+[0] job 12d05e0f haveJob=1 sizes=32/4/4/4
+[1] job 0de65e0c haveJob=1 sizes=32/4/4/4
+[0] job 12d05e10 haveJob=1 sizes=32/4/4/4
+[1] job 0de65e0d haveJob=1 sizes=32/4/4/4
+[1] job 0de65e0e haveJob=1 sizes=32/4/4/4
+[0] job 12d05e11 haveJob=1 sizes=32/4/4/4
+[1] job 0de65e0f haveJob=1 sizes=32/4/4/4
+[0] job 12d05e12 haveJob=1 sizes=32/4/4/4
+[1] job 0de65e10 haveJob=1 sizes=32/4/4/4
+[0] job 12d05e13 haveJob=1 sizes=32/4/4/4
+[1] job 0de65e11 haveJob=1 sizes=32/4/4/4
+[0] job 12d05e14 haveJob=1 sizes=32/4/4/4
+[1] job 0de65e12 haveJob=1 sizes=32/4/4/4
+[0] connected bcmonster.com:9986 user=DMQfxFM5MEU75Y1w1UdfYtW4wMaFx6dwRq.worker01
+[0] subscribe ok ex1size=6 ex2size=4
+[0] authorized
+[0] job 324c5e17 haveJob=1 sizes=32/4/4/4
+[0] job 324c5e18 haveJob=1 sizes=32/4/4/4
+[1] job 0de65e13 haveJob=1 sizes=32/4/4/4
+[1] job 0de65e14 haveJob=1 sizes=32/4/4/4
+[0] job 324c5e19 haveJob=1 sizes=32/4/4/4
+[0] job 324c5e1a haveJob=1 sizes=32/4/4/4
+[1] job 0de65e15 haveJob=1 sizes=32/4/4/4
+[1] connected bcmonster.com:9986 user=DMQfxFM5MEU75Y1w1UdfYtW4wMaFx6dwRq.worker01
+[1] subscribe failed
+[1] connected bcmonster.com:9986 user=DMQfxFM5MEU75Y1w1UdfYtW4wMaFx6dwRq.worker01
+[1] subscribe ok ex1size=6 ex2size=4
+[1] authorized
+[1] job 22a55e12 haveJob=1 sizes=32/4/4/4
+[1] job 22a55e13 haveJob=1 sizes=32/4/4/4
+[0] job 324c5e1b haveJob=1 sizes=32/4/4/4
+[1] job 22a55e14 haveJob=1 sizes=32/4/4/4
+[0] job 324c5e1c haveJob=1 sizes=32/4/4/4
+[1] job 22a55e15 haveJob=1 sizes=32/4/4/4
+[0] job 324c5e1d haveJob=1 sizes=32/4/4/4
+[0] job 324c5e1e haveJob=1 sizes=32/4/4/4
+[1] job 22a55e16 haveJob=1 sizes=32/4/4/4
+[1] job 22a55e17 haveJob=1 sizes=32/4/4/4
+[0] job 324c5e1f haveJob=1 sizes=32/4/4/4
+[1] job 22a55e18 haveJob=1 sizes=32/4/4/4
+[0] job 324c5e20 haveJob=1 sizes=32/4/4/4
+[0] job 324c5e21 haveJob=1 sizes=32/4/4/4
+[1] job 22a55e19 haveJob=1 sizes=32/4/4/4

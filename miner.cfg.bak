@@ -1,0 +1,16 @@
+[miner]
+; Pool DGB SHA-256 (BCMonster, sin registro, wallet como usuario, 1.5%, pago minimo 1 DGB).
+; Puerto 9986 = baja dificultad (0.001), indicado para CPU/hashrate bajo. El pool ajusta la dificultad solo.
+pool=stratum+tcp://bcmonster.com:9986
+; TU direccion DGB real (la que pusiste). Sin esto el programa no arranca.
+wallet=DMQfxFM5MEU75Y1w1UdfYtW4wMaFx6dwRq
+worker=worker01
+; Numero de hilos de CPU que minan.
+threads=2
+; Panel central. En cada equipo cambia 127.0.0.1 por la IP del PC que corre server.py.
+server=http://127.0.0.1:8765/report
+
+[stats]
+local_api=
+explorer_api=
+wallet_total_dgb=0
